@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "PHY-SC22-AU", 
+            "course": "physc04", 
             "name": "mechanics.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "mechanics.jpg", 
-        "filename": "asset-v1:Amrita-University+PHY-SC22-AU+Anytime+type@asset+block@mechanics.jpg", 
+        "filename": "asset-v1:Virtual-Labs+physc04+Anytime+type@asset+block@mechanics.jpg", 
         "import_path": "mechanics.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "PHY-SC22-AU", 
+            "Virtual-Labs", 
+            "physc04", 
             "thumbnail", 
             "mechanics.jpg", 
             null
